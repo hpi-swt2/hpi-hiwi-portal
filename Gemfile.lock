@@ -387,7 +387,7 @@ GEM
     unicorn (5.8.0)
       kgio (~> 2.6)
       raindrops (~> 0.7)
-    validates_timeliness (4.1.1)
+    validates_timeliness (5.0.0)
       timeliness (>= 0.3.10, < 1)
     web-console (4.1.0)
       actionview (>= 6.0.0)
@@ -466,7 +466,7 @@ DEPENDENCIES
   traco
   uglifier
   unicorn
-  validates_timeliness (~> 4.1)
+  validates_timeliness (~> 5.0)
   web-console
   whenever
   will_paginate (~> 3.3)
