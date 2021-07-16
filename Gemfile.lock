@@ -333,7 +333,7 @@ GEM
       sprockets (> 3.0)
       sprockets-rails
       tilt
-    sdoc (1.1.0)
+    sdoc (2.2.0)
       rdoc (>= 5.0)
     selenium-webdriver (3.142.7)
       childprocess (>= 0.5, < 4.0)
@@ -455,7 +455,7 @@ DEPENDENCIES
   safe_target_blank
   sanitize (~> 5.2)
   sassc-rails
-  sdoc (~> 1.1.0)
+  sdoc (~> 2.2.0)
   selenium-webdriver
   sentry-raven
   simple_form

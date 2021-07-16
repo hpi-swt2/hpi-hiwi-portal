@@ -42,7 +42,7 @@ gem 'rubocop'
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
-  gem 'sdoc', '~> 1.1.0', require: false
+  gem 'sdoc', '~> 2.2.0', require: false
 end
 
 group :development, :test do
