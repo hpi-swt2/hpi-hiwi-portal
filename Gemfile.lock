@@ -147,10 +147,10 @@ GEM
       mail (~> 2.7)
     erubi (1.10.0)
     execjs (2.7.0)
-    factory_bot (6.1.0)
+    factory_bot (6.2.0)
       activesupport (>= 5.0.0)
-    factory_bot_rails (6.1.0)
-      factory_bot (~> 6.1.0)
+    factory_bot_rails (6.2.0)
+      factory_bot (~> 6.2.0)
       railties (>= 5.0.0)
     famfamfam_flags_rails (0.3.0)
       railties (>= 3.1.0)
@@ -426,7 +426,7 @@ DEPENDENCIES
   configurable_engine
   database_cleaner
   email_spec
-  factory_bot_rails (~> 6.1)
+  factory_bot_rails (~> 6.2)
   famfamfam_flags_rails
   font-awesome-rails
   has_scope

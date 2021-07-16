@@ -50,7 +50,7 @@ group :development, :test do
   gem 'rspec-mocks'
   gem 'rake'
   gem 'letter_opener'
-  gem 'factory_bot_rails', '~> 6.1'
+  gem 'factory_bot_rails', '~> 6.2'
   gem 'capybara'
   gem 'rails_log_stdout',           git: 'https://github.com/heroku/rails_log_stdout.git'
   gem 'byebug'
