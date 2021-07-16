@@ -127,7 +127,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.12.2)
-    concurrent-ruby (1.1.8)
+    concurrent-ruby (1.1.9)
     configurable_engine (2.0.2)
       rails (> 5.2.0)
     crass (1.0.6)
@@ -193,7 +193,7 @@ GEM
     letter_opener (1.7.0)
       launchy (~> 2.2)
     libv8 (3.16.14.19)
-    loofah (2.9.1)
+    loofah (2.10.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     mail (2.7.1)
@@ -207,7 +207,7 @@ GEM
       nokogiri (~> 1)
       rake
     mini_mime (1.0.3)
-    mini_portile2 (2.5.1)
+    mini_portile2 (2.5.3)
     minitest (5.14.4)
     multipart-post (2.1.1)
     net-scp (3.0.0)
@@ -215,7 +215,7 @@ GEM
     net-ssh (6.1.0)
     netrc (0.11.0)
     nio4r (2.5.7)
-    nokogiri (1.11.5)
+    nokogiri (1.11.7)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     nokogumbo (2.0.4)
@@ -367,7 +367,7 @@ GEM
     thor (1.1.0)
     tilt (2.0.10)
     timeliness (0.4.4)
-    tinymce-rails (5.6.2.1)
+    tinymce-rails (5.8.2)
       railties (>= 3.1.1)
     tinymce-rails-langs (5.20200505)
       tinymce-rails (~> 5.0)
@@ -461,7 +461,7 @@ DEPENDENCIES
   simple_form
   simplecov
   therubyracer (~> 0.12.0)
-  tinymce-rails (~> 5.6)
+  tinymce-rails (~> 5.8)
   tinymce-rails-langs (~> 5.20200505)
   traco
   uglifier
